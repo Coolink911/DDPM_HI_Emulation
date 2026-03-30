@@ -7,7 +7,7 @@
 - DDPM forward process + fast DDIM sampling (50 steps)
 - EMA, gradient clipping, CosineAnnealingLR, early stopping
 - WandB logging (optional)
-- Fully reproducible (fixed seed = 42)
+
 
 ## References
 - DDPM: Ho et al. (2020) — https://arxiv.org/abs/2006.11239
